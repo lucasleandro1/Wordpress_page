@@ -1,3 +1,4 @@
+Pagina para vendas usando Wordpress com elementor.
 ![pt1](https://github.com/lucasleandro1/Wordpress_page/assets/103941951/3e32a4b5-33f7-4e8b-9783-3045d93eaf9e)
 ![pt2](https://github.com/lucasleandro1/Wordpress_page/assets/103941951/757ed75d-45a0-49bf-a73e-c2628367e187)
 ![pt3](https://github.com/lucasleandro1/Wordpress_page/assets/103941951/80525b20-9b02-4850-9348-0790f7138996)
